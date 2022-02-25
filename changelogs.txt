@@ -1,0 +1,25 @@
+/*    1.1.0    */
+Upstream to 4.14.267
+Update tfa98xx driver to 6.7.14
+Update zstd from 5.17 kernel
+Upstream zram changes  (linux 5.17)
+Add zswap surpport(disabled default) ,default zpool is z3fold
+Backport uclamp from upstream kernel
+Fix battery type incorrect issue
+......
+
+
+/*    1.0.0    */
+Merge caf tag LA.UM.9.1.r1-11600-SMxxx0.0 (techpack and qcacld-3.0 also)
+Upstream to 4.14.264
+Update tochscreen devicetree source from nabu-r-oss
+Update power drivers and drm drivers changes from nabu-r-oss ( clean up useless code)
+Add vdso32
+Add kcal color control
+Enable power efficient workingqueues
+Add arm64 lse surpport
+Add panel oc surpport
+Add ztsd for zram
+Switch to simple_lmk
+Allow battary bigger than 4000mah
+......
